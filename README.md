@@ -18,6 +18,6 @@
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=black"/><br>
    
    <img src="https://img.shields.io/badge/Git-purple?style=flat&logo=Git&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Notion-blue?style=flat&logo=CSS3&logoColor=green"/><br><br>
+   <img src="https://img.shields.io/badge/Notion-black?style=flat&logo=CSS3&logoColor=green"/><br><br>
  
 </div> <br>
